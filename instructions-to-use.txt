@@ -1,0 +1,6 @@
+1.	User should change input_file_path and output_file_path their local path.
+2.	User should open pqrInput, in the first column start from first row, put in one stock ticker in CAPITAL LETTERS. Each stock ticker will be in the first column second row, first column third row and so on. You can look at exampleInput.csv to see how expected input should look.
+3.	Save pqrInput and close.
+4.	Run PQR.py
+5.	After running, you may close terminal.
+6.	Open pqrOutput.csv
