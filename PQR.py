@@ -1,5 +1,7 @@
 # https://twelvedata.com/docs#income_statement
 
+# This should be updated using the pandas package for now. Depending on how large it gets, dask dataframes can be used as well.
+
 import csv
 import requests
 import json
